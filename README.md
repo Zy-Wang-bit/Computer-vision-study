@@ -1,4 +1,4 @@
-# (1) Basic opeate
+# Basic opeate
 
 ## Histogram
 ## Gaussian filtering
