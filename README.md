@@ -1,1 +1,5 @@
-# Computer-vision-study
+# (1) Basic opeate
+
+## Histogram
+## Gaussian filtering
+## Histogram Equalization
