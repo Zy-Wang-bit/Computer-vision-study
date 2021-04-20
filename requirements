@@ -1,0 +1,6 @@
+numpy~=1.20.2
+pcv~=1.0
+opencv-python~=3.4.2.16
+opencv-contrib-python~=3.4.2.16
+pydot~=1.4.1
+matplotlib~=3.3.4
